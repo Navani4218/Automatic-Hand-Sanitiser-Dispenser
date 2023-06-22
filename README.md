@@ -1,10 +1,10 @@
 # Automatic-Hand-Sanitiser-Dispenser
 
-INTRODUCTION:
+𝐈𝐍𝐓𝐑𝐎𝐃𝐔𝐂𝐓𝐈𝐎𝐍:
 
 I have fabricated a project titled "AUTOMATIC HAND SANITISER DISPENSER". This project was created during the COVID-19 pandemic as a try to fabricate the low cost Automatic Sanitiser Dispenser.
 
-ABSTRACT:
+𝐀𝐁𝐒𝐓𝐑𝐀𝐂𝐓:
 
 In 2020, the entire world has been severely affected by a virus named Covid-19 also 
 known as Corona Virus. 
@@ -18,7 +18,7 @@ system uses Arduino Board, Ultrasonic Sensor, Servo Motor, and USB cable.
 
 Thus developed prototype dispenses the required amount of sanitizer by sensing the hand.
 
-CONCLUSION:
+𝐂𝐎𝐍𝐂𝐋𝐔𝐒𝐈𝐎𝐍:
 
 At present, World still has a threat to people through various vital and contagious viruses which are spreading in different parts of the country. 
 
